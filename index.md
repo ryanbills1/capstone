@@ -11,7 +11,7 @@ As a part of this project, some existing code for connecting to and manipulating
 Here is a link to the informal code review which was conducted prior to the enhancements being done:                          
 https://vimeo.com/655928715
 
-Code for the below enhancements can be found here: https://github.com/ryanbills1/capstone
+Code for the below enhancements can be found [here.](https://github.com/ryanbills1/capstone)
 
 ### Enhancement 1: Software Engineering Category
 The artifact I have selected to fulfill the software design / engineering requirement is to create an eBay application using modular development, in order to be able to expand the program in the future. This code includes a main file (controller), a .env file for holding the API key, a file for connecting to and handling eBay API requests, a file for interacting with the MongoDB database, and a file for interacting with Excel file input / output. All of these files are new code development, except for the MongoDB file which will be edited / enhanced / reused from a previous project.
